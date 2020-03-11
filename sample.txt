@@ -1,2 +1,0 @@
-This is simply a file that will be needed for when this repository makes a pull request from the secondary branch to the master, 
-followed by a merge of the items listed on the request.
